@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>tile1.png</file>
+        <file>tile2.png</file>
+        <file>tile3.png</file>
+        <file>tile4.png</file>
+        <file>tile5.png</file>
+        <file>tile6.png</file>
+        <file>tile7.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>bg.png</file>
+    </qresource>
+</RCC>
